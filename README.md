@@ -4,7 +4,8 @@
 
 POSTMAN ROUTES
 
-PORT 8081
+PORT 8081 <br>
+
 // Route to return the list of all the schools
 localhost:8081/allschools
 
